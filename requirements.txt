@@ -1,0 +1,2 @@
+ttkbootstrap>=1.10.1
+rsa>=4.9
